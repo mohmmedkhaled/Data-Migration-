@@ -1,0 +1,9 @@
+# Ignore Terraform state and secrets
+*.tfvars
+*.tfvars.json
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+gcp-key.json
+.json
+.csv
