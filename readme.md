@@ -1,4 +1,4 @@
-E-Commerce Data Warehouse Project: Sales Analytics
+E-Commerce Data Migration Project:
 
 📌 Project Overview
 
