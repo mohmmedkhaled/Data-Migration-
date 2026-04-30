@@ -10,3 +10,4 @@ gcp-key.json
 .env
 .env.*
 data/
+data/*.csv
