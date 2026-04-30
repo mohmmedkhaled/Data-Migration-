@@ -7,7 +7,9 @@ terraform.tfstate.backup
 gcp-key.json
 .json
 .csv
+
 .env
 .env.*
+
 data/
-data/*.csv
+*.csv
